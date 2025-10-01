@@ -1,0 +1,18 @@
+{
+  "name": "Random Interval Alarm Clock",
+  "short_name": "Alarm Clock",
+  "description": "A random interval alarm clock that works in the background",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1f2937",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "orientation": "portrait"
+}
